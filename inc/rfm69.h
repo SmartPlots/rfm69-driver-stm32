@@ -1,7 +1,7 @@
 #ifndef _RFM69_H_
 #define _RFM69_H_
 
-#include "exemples\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h" //Change selon la carte STM32 utilisé
+#include "stm32f4xx_hal.h" //Change selon la carte STM32 utilisé
 
 #define STANDBY 0 //RFM69 en mode ecoute
 
